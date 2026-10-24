@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-10-24T13:13:27.694Z",
+  "updated": "2026-10-24T13:24:44.011Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "সাবধান! আপনার কণ্ঠ দিয়েই প্রতারণা হতে পারে ⚠️",
       "description": "কয়েক সেকেন্ডের recording থেকেই AI আপনার কণ্ঠ copy করতে পারে। \"মা, বিপদে পড়েছি, টাকা পাঠাও\" এমন call এলে কেটে দিয়ে নিজে call করে যাচাই করুন। পরিবারের সাথে share করুন। #deepfake #AIBangla #scam #সাবধান #shorts",
       "published": "2026-10-23T19:54:45+00:00",
-      "views": 11,
+      "views": 14,
       "short": true,
       "topic": "safety"
     },
@@ -46,7 +46,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার চাকরি নিয়ে নেবে? 😟",
       "description": "AI পুরো চাকরি নেয় না, নেয় চাকরির ভেতরের কিছু কাজ। বাংলাদেশের freelancer-দের জন্য এটা কেন জরুরি? পুরো ভিডিও: AI আসলে কী? (চ্যানেলে) #AI #AIBangla #freelancing  #shorts #চাকরি",
       "published": "2026-10-23T19:50:18+00:00",
-      "views": 23,
+      "views": 24,
       "short": true,
       "topic": "work"
     },
