@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-10-24T12:42:36.146Z",
+  "updated": "2026-10-24T13:13:27.694Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "সাবধান! আপনার কণ্ঠ দিয়েই প্রতারণা হতে পারে ⚠️",
       "description": "কয়েক সেকেন্ডের recording থেকেই AI আপনার কণ্ঠ copy করতে পারে। \"মা, বিপদে পড়েছি, টাকা পাঠাও\" এমন call এলে কেটে দিয়ে নিজে call করে যাচাই করুন। পরিবারের সাথে share করুন। #deepfake #AIBangla #scam #সাবধান #shorts",
       "published": "2026-10-23T19:54:45+00:00",
-      "views": 8,
+      "views": 11,
       "short": true,
       "topic": "safety"
     },
