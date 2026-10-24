@@ -12,6 +12,8 @@ function el(tag, props = {}, ...kids) {
 const pad = (n) => String(n).padStart(2, '0');
 const bnDate = (iso) => new Date(iso).toLocaleDateString('bn-BD', { day: 'numeric', month: 'long', year: 'numeric' });
 const watchUrl = (v) => (v.short ? `https://www.youtube.com/shorts/${v.id}` : `https://www.youtube.com/watch?v=${v.id}`);
+// Each video has its own static page, built by scripts/build-pages.mjs.
+const pageUrl = (v) => `v/${v.id}/`;
 const topicName = (id) => topics.find((t) => t.id === id)?.bn || '';
 // Catalogue number: oldest upload is LOG 001.
 const logNo = (v) => `LOG ${String(videos.length - videos.indexOf(v)).padStart(3, '0')}`;
@@ -52,7 +54,7 @@ if (featured) {
   $('.feature__player', box).replaceWith(el('div', { className: 'feature__player' }, player(featured)));
   $('.feature__body', box).append(
     el('div', { className: 'feature__meta mono' }, el('span', { className: 'tag', textContent: topicName(featured.topic) }), el('span', { textContent: bnDate(featured.published) })),
-    el('h3', { textContent: featured.title }),
+    el('a', { href: pageUrl(featured) }, el('h3', { textContent: featured.title })),
     el('p', { textContent: featured.description.split('\n')[0].slice(0, 220) }),
     el('a', { className: 'btn btn--ghost', href: watchUrl(featured), target: '_blank', rel: 'noopener', textContent: 'YouTube-এ দেখুন ↗' }),
   );
@@ -62,7 +64,7 @@ if (featured) {
 const rail = $('[data-shorts]');
 shorts.forEach((v) => rail.append(el('div', { className: 'short' },
   player(v, el('span', { className: 'short__title', textContent: v.title })),
-  el('span', { className: 'mono', textContent: `${logNo(v)} · ${topicName(v.topic)}` }),
+  el('a', { className: 'mono', href: pageUrl(v), textContent: `${logNo(v)} · ${topicName(v.topic)} →` }),
 )));
 if (!shorts.length) $('#shorts').hidden = true;
 $$('[data-rail]').forEach((b) => b.addEventListener('click', () => rail.scrollBy({ left: rail.clientWidth * 0.8 * b.dataset.rail, behavior: 'smooth' })));
@@ -89,7 +91,7 @@ function showTopic(id) {
     const card = el('article', { className: `log${v.short ? ' log--short' : ''}` },
       player(v),
       el('div', { className: 'log__meta mono' }, el('b', { textContent: logNo(v) }), el('span', { textContent: v.short ? 'Short' : 'Long-form' })),
-      el('a', { href: watchUrl(v), target: '_blank', rel: 'noopener' }, el('h3', { textContent: v.title })),
+      el('a', { href: pageUrl(v) }, el('h3', { textContent: v.title })),
       el('span', { className: 'mono small', textContent: `${topicName(v.topic)} · ${bnDate(v.published)}` }),
     );
     card.style.animationDelay = `${i * 60}ms`;

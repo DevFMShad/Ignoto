@@ -1,1 +1,4 @@
 .claude/
+# Generated on every deploy by scripts/build-pages.mjs
+v/
+sitemap.xml

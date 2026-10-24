@@ -5,7 +5,8 @@ Plain HTML/CSS/JS, no build step. Videos come from the channel's YouTube feed.
 - `index.html`, `styles.css`, `main.js`: the site
 - `data/videos.js`: generated video list (don't edit by hand)
 - `scripts/fetch-videos.mjs`: refreshes `data/videos.js`; topic rules are at the top of this file
-- `.github/workflows/update-and-deploy.yml`: runs the script every 6 hours and publishes to GitHub Pages
+- `scripts/build-pages.mjs`: builds one page per video (`v/<id>/`) and `sitemap.xml` for Google. These are generated, not committed
+- `.github/workflows/update-and-deploy.yml`: runs both scripts every 6 hours and publishes to GitHub Pages
 
 ## Run locally
 
@@ -13,7 +14,7 @@ Plain HTML/CSS/JS, no build step. Videos come from the channel's YouTube feed.
 python -m http.server 5173
 ```
 
-Then open http://localhost:5173. To pull new videos: `node scripts/fetch-videos.mjs`.
+Then open http://localhost:5173. To pull new videos and rebuild the video pages: `node scripts/fetch-videos.mjs && node scripts/build-pages.mjs`.
 
 ## Go live (one time)
 
