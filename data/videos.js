@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-10-27T21:42:41.819Z",
+  "updated": "2026-10-28T11:57:47.419Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "ChatGPT-র ৫টা feature, যেটা বেশিরভাগ মানুষ কখনো খুলেও দেখেনি 🔓",
       "description": "ChatGPT-তে প্রশ্ন করা তো সবাই জানে। কিন্তু এই ৫টা feature দিয়ে সময় বাঁচে সবচেয়ে বেশি:\n\n১. Custom Instructions: একবার লিখে দিন আপনি কে, প্রতিটা উত্তর আসবে আপনার মতো করে\n২. Projects: নিজের বই, নোট বা syllabus থেকে উত্তর\n৩. ছবি → Excel: হাতে লেখা হিসাবের খাতা থেকে Excel file, মোট হিসাবসহ\n৪. Deep Research: ঘণ্টার research কয়েক মিনিটে, source সহ\n৫. Tasks: ChatGPT নিজেই প্রতিদিন আপনাকে message দেবে\n\n📌 ৫টা prompt-ই pin করা কমেন্টে আছে, copy করে use করুন।\n\nVideo-টা save করে রাখুন, আর যার কাজে লাগবে তাকে share করুন।\n\n#ChatGPT #AIBangla #ChatGPTBangla #shorts",
       "published": "2026-10-27T16:41:15+00:00",
-      "views": 60,
+      "views": 131,
       "short": true,
       "topic": "tools"
     },
@@ -46,7 +46,7 @@ window.IGNOTO = {
       "title": "ChatGPT কেন এত আত্মবিশ্বাস নিয়ে ভুল বলে? 🤔",
       "description": "ChatGPT সত্য খোঁজে না, খোঁজে সবচেয়ে সম্ভাব্য পরের শব্দ। তাই কখনো কখনো এমন বই, এমন reference বানিয়ে দেয় যার অস্তিত্বই নেই। পুরো ভিডিও: AI আসলে কী? (চ্যানেলে) #ChatGPT #AIBangla #hallucination #shorts",
       "published": "2026-10-23T19:53:15+00:00",
-      "views": 144,
+      "views": 145,
       "short": true,
       "topic": "basics"
     },
@@ -64,7 +64,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার জায়গা নেবে? AI-এর পুরো গল্প, সহজ বাংলায়",
       "description": "AI এখন আমাদের প্রতিদিনের সিদ্ধান্ত নিচ্ছে, কিন্তু AI আসলে কী? এই ভিডিওতে সহজ বাংলায় দেখব AI কীভাবে এলো, ভেতরে কীভাবে কাজ করে, আমাদের জীবন আর চাকরিতে এর প্রভাব কী, আর AI-এর যুগে এগিয়ে থাকতে আপনার কোন ৫টা অভ্যাস দরকার।\n\nAI নিয়ে আপনার সবচেয়ে বড় প্রশ্ন কী? Comment-এ জানান।\n\nChapters \n0:00 শুরু \n1:18 AI আসলে কী? \n3:09 কীভাবে এলো AI \n6:45 AI ভেতরে কীভাবে কাজ করে \n10:02 আমাদের জীবনে প্রভাব \n13:01 এখন আপনার কী করা উচিত\n\nSources\n\n১০ কোটি ব্যবহারকারী পৌঁছানোর সময় (ChatGPT ~২ মাস, TikTok ~৯ মাস, Instagram ~২.৫ বছর): \nUBS, reported by Reuters, Feb 2023\nTuring, \"Computing Machinery and Intelligence\", Mind, 1950\nAlexNet, ImageNet (ILSVRC) 2012: \ntop-5 error ~15.3% vs ~26.2% for the runner-up\nVaswani et al., \"Attention Is All You Need\", 2017\nGPT-3: 175 billion parameters (Brown et al., 2020)\nNobel Prize in Chemistry 2024 (AlphaFold: Demis Hassabis, John Jumper)\nAmazon's experimental recruiting tool: Reuters, Oct 2018",
       "published": "2026-10-23T19:24:29+00:00",
-      "views": 147,
+      "views": 152,
       "short": false,
       "topic": "work"
     }
