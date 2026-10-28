@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-10-28T11:57:47.419Z",
+  "updated": "2026-10-28T17:59:03.942Z",
   "topics": [
     {
       "id": "safety",
@@ -24,11 +24,20 @@ window.IGNOTO = {
   ],
   "videos": [
     {
+      "id": "vvqa-HB2gEk",
+      "title": "মোবাইলের একটা ছবি থেকে পুরো product ad, ০ টাকায় 🤯 | ChatGPT-এর বাইরে AI #1",
+      "description": "Photographer নেই, model নেই, studio নেই। শুধু মোবাইলের একটা ছবি আর Hugging Face-এর free AI।\n\n৩ ধাপে পুরো ad:\n০১ বিছানার চাদরের ছবি → studio photo\n০২ Model-এর হাতে আপনার product\n০৩ সেই ছবিটাই এখন video\n\nসময় লেগেছে ৫ মিনিট, খরচ ০ টাকা।\nতিনটা link আর prompt পিন করা কমেন্টে 👇\n\nFree account-এ প্রতিদিন ৫ মিনিট GPU সময় পাবেন। একটা ad-এর জন্য যথেষ্ট।\n(ছবি ও video AI দিয়ে বানানো। Customer-কে বলে দিন এটা AI preview।)\n\n#AIBangla #HuggingFace #FreeAI #FCommerce #ProductPhotography #ChatGPTBangla #shorts",
+      "published": "2026-10-28T16:21:54+00:00",
+      "views": 0,
+      "short": true,
+      "topic": "tools"
+    },
+    {
       "id": "8JlVK7j_GXM",
       "title": "ChatGPT-র ৫টা feature, যেটা বেশিরভাগ মানুষ কখনো খুলেও দেখেনি 🔓",
       "description": "ChatGPT-তে প্রশ্ন করা তো সবাই জানে। কিন্তু এই ৫টা feature দিয়ে সময় বাঁচে সবচেয়ে বেশি:\n\n১. Custom Instructions: একবার লিখে দিন আপনি কে, প্রতিটা উত্তর আসবে আপনার মতো করে\n২. Projects: নিজের বই, নোট বা syllabus থেকে উত্তর\n৩. ছবি → Excel: হাতে লেখা হিসাবের খাতা থেকে Excel file, মোট হিসাবসহ\n৪. Deep Research: ঘণ্টার research কয়েক মিনিটে, source সহ\n৫. Tasks: ChatGPT নিজেই প্রতিদিন আপনাকে message দেবে\n\n📌 ৫টা prompt-ই pin করা কমেন্টে আছে, copy করে use করুন।\n\nVideo-টা save করে রাখুন, আর যার কাজে লাগবে তাকে share করুন।\n\n#ChatGPT #AIBangla #ChatGPTBangla #shorts",
       "published": "2026-10-27T16:41:15+00:00",
-      "views": 131,
+      "views": 167,
       "short": true,
       "topic": "tools"
     },
@@ -64,7 +73,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার জায়গা নেবে? AI-এর পুরো গল্প, সহজ বাংলায়",
       "description": "AI এখন আমাদের প্রতিদিনের সিদ্ধান্ত নিচ্ছে, কিন্তু AI আসলে কী? এই ভিডিওতে সহজ বাংলায় দেখব AI কীভাবে এলো, ভেতরে কীভাবে কাজ করে, আমাদের জীবন আর চাকরিতে এর প্রভাব কী, আর AI-এর যুগে এগিয়ে থাকতে আপনার কোন ৫টা অভ্যাস দরকার।\n\nAI নিয়ে আপনার সবচেয়ে বড় প্রশ্ন কী? Comment-এ জানান।\n\nChapters \n0:00 শুরু \n1:18 AI আসলে কী? \n3:09 কীভাবে এলো AI \n6:45 AI ভেতরে কীভাবে কাজ করে \n10:02 আমাদের জীবনে প্রভাব \n13:01 এখন আপনার কী করা উচিত\n\nSources\n\n১০ কোটি ব্যবহারকারী পৌঁছানোর সময় (ChatGPT ~২ মাস, TikTok ~৯ মাস, Instagram ~২.৫ বছর): \nUBS, reported by Reuters, Feb 2023\nTuring, \"Computing Machinery and Intelligence\", Mind, 1950\nAlexNet, ImageNet (ILSVRC) 2012: \ntop-5 error ~15.3% vs ~26.2% for the runner-up\nVaswani et al., \"Attention Is All You Need\", 2017\nGPT-3: 175 billion parameters (Brown et al., 2020)\nNobel Prize in Chemistry 2024 (AlphaFold: Demis Hassabis, John Jumper)\nAmazon's experimental recruiting tool: Reuters, Oct 2018",
       "published": "2026-10-23T19:24:29+00:00",
-      "views": 152,
+      "views": 154,
       "short": false,
       "topic": "work"
     }
