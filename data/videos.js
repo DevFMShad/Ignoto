@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-10-29T12:07:19.004Z",
+  "updated": "2026-10-29T22:19:21.942Z",
   "topics": [
     {
       "id": "safety",
@@ -24,11 +24,20 @@ window.IGNOTO = {
   ],
   "videos": [
     {
+      "id": "cjYAkI5JGo4",
+      "title": "Enter চাপার পর ChatGPT-এর ভেতরে যা হয় 🤯 #shorts",
+      "description": "Enter চাপার পরের এক সেকেন্ড, slow motion-এ। আপনার লেখা কীভাবে token হয়, সংখ্যা হয়, attention দিয়ে মানে বোঝে, আর এক শব্দ এক শব্দ করে উত্তর বানায়।\n\nএটা বুঝলে ৩টা অভ্যাস নিজে থেকেই আসে: ১. যেমন উত্তর চান, তার একটা উদাহরণ দিন ২. লিখুন \"আগে ধাপে ধাপে ভাবো, তারপর উত্তর দাও\" ৩. উত্তর ভুল হলে তর্ক না করে নিজের প্রশ্নটাই edit করুন (✏️)\n\nতিনটা ready প্রম্পট pinned comment-এ।\n\n#ChatGPT #AI #প্রম্পট #বাংলা #AIবাংলা #shorts",
+      "published": "2026-10-29T12:30:04+00:00",
+      "views": 389,
+      "short": true,
+      "topic": "basics"
+    },
+    {
       "id": "vvqa-HB2gEk",
       "title": "মোবাইলের একটা ছবি থেকে পুরো product ad, ০ টাকায় 🤯 | ChatGPT-এর বাইরে AI #1",
       "description": "Photographer নেই, model নেই, studio নেই। শুধু মোবাইলের একটা ছবি আর Hugging Face-এর free AI।\n\n৩ ধাপে পুরো ad:\n০১ বিছানার চাদরের ছবি → studio photo\n০২ Model-এর হাতে আপনার product\n০৩ সেই ছবিটাই এখন video\n\nসময় লেগেছে ৫ মিনিট, খরচ ০ টাকা।\nতিনটা link আর prompt পিন করা কমেন্টে 👇\n\nFree account-এ প্রতিদিন ৫ মিনিট GPU সময় পাবেন। একটা ad-এর জন্য যথেষ্ট।\n(ছবি ও video AI দিয়ে বানানো। Customer-কে বলে দিন এটা AI preview।)\n\n#AIBangla #HuggingFace #FreeAI #FCommerce #ProductPhotography #ChatGPTBangla #shorts",
       "published": "2026-10-28T16:21:54+00:00",
-      "views": 53,
+      "views": 86,
       "short": true,
       "topic": "tools"
     },
@@ -37,7 +46,7 @@ window.IGNOTO = {
       "title": "ChatGPT-র ৫টা feature, যেটা বেশিরভাগ মানুষ কখনো খুলেও দেখেনি 🔓",
       "description": "ChatGPT-তে প্রশ্ন করা তো সবাই জানে। কিন্তু এই ৫টা feature দিয়ে সময় বাঁচে সবচেয়ে বেশি:\n\n১. Custom Instructions: একবার লিখে দিন আপনি কে, প্রতিটা উত্তর আসবে আপনার মতো করে\n২. Projects: নিজের বই, নোট বা syllabus থেকে উত্তর\n৩. ছবি → Excel: হাতে লেখা হিসাবের খাতা থেকে Excel file, মোট হিসাবসহ\n৪. Deep Research: ঘণ্টার research কয়েক মিনিটে, source সহ\n৫. Tasks: ChatGPT নিজেই প্রতিদিন আপনাকে message দেবে\n\n📌 ৫টা prompt-ই pin করা কমেন্টে আছে, copy করে use করুন।\n\nVideo-টা save করে রাখুন, আর যার কাজে লাগবে তাকে share করুন।\n\n#ChatGPT #AIBangla #ChatGPTBangla #shorts",
       "published": "2026-10-27T16:41:15+00:00",
-      "views": 207,
+      "views": 242,
       "short": true,
       "topic": "tools"
     },
@@ -46,7 +55,7 @@ window.IGNOTO = {
       "title": "সাবধান! আপনার কণ্ঠ দিয়েই প্রতারণা হতে পারে ⚠️",
       "description": "কয়েক সেকেন্ডের recording থেকেই AI আপনার কণ্ঠ copy করতে পারে। \"মা, বিপদে পড়েছি, টাকা পাঠাও\" এমন call এলে কেটে দিয়ে নিজে call করে যাচাই করুন। পরিবারের সাথে share করুন। #deepfake #AIBangla #scam #সাবধান #shorts",
       "published": "2026-10-23T19:54:45+00:00",
-      "views": 73,
+      "views": 74,
       "short": true,
       "topic": "safety"
     },
@@ -64,7 +73,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার চাকরি নিয়ে নেবে? 😟",
       "description": "AI পুরো চাকরি নেয় না, নেয় চাকরির ভেতরের কিছু কাজ। বাংলাদেশের freelancer-দের জন্য এটা কেন জরুরি? পুরো ভিডিও: AI আসলে কী? (চ্যানেলে) #AI #AIBangla #freelancing  #shorts #চাকরি",
       "published": "2026-10-23T19:50:18+00:00",
-      "views": 45,
+      "views": 46,
       "short": true,
       "topic": "work"
     },
