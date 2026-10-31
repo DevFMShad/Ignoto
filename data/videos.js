@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-10-31T11:33:12.348Z",
+  "updated": "2026-10-31T16:40:37.819Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "YouTube-এ আর ad না, phone lock করলেও চলবে, ০ টাকায় 🤯 | GitHub-এর free app",
       "description": "Play Store-এ পাবেন না, পাবেন GitHub-এ: যেখানে programmer-রা নিজেদের বানানো app সবার জন্য free দিয়ে দেয়।\n\n০১ NewPipe: YouTube ad ছাড়া, screen বন্ধ করলেও চলে, video download করা যায়।\n০২ Rethink: কোন app background-এ আপনার MB খাচ্ছে, এক tap-এ বন্ধ করুন। বোনাস: অনেক game আর app-এর ad-ও বন্ধ।\n\n⚠️ Mod APK website থেকে কিছু নামাবেন না, virus থাকে ওখানেই। আসল app চেনার ৩টা উপায়:\n✓ আসল নাম (যেমন TeamNewPipe/NewPipe)\n✓ হাজার হাজার star\n✓ download শুধু Releases থেকে\n\nLink pin করা কমেন্টে।\nGitHub কীভাবে কাজ করে, app কীভাবে install করবেন, পুরো video চাইলে কমেন্টে লিখুন \"FULL\"।\n\n#GitHub #FreeApps #AndroidTips",
       "published": "2026-10-30T08:00:37+00:00",
-      "views": 59,
+      "views": 62,
       "short": true,
       "topic": "basics"
     },
