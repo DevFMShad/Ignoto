@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-01T12:30:16.921Z",
+  "updated": "2026-11-01T21:35:50.169Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "YouTube-এ আর ad না, phone lock করলেও চলবে, ০ টাকায় 🤯 | GitHub-এর free app",
       "description": "Play Store-এ পাবেন না, পাবেন GitHub-এ: যেখানে programmer-রা নিজেদের বানানো app সবার জন্য free দিয়ে দেয়।\n\n০১ NewPipe: YouTube ad ছাড়া, screen বন্ধ করলেও চলে, video download করা যায়।\n০২ Rethink: কোন app background-এ আপনার MB খাচ্ছে, এক tap-এ বন্ধ করুন। বোনাস: অনেক game আর app-এর ad-ও বন্ধ।\n\n⚠️ Mod APK website থেকে কিছু নামাবেন না, virus থাকে ওখানেই। আসল app চেনার ৩টা উপায়:\n✓ আসল নাম (যেমন TeamNewPipe/NewPipe)\n✓ হাজার হাজার star\n✓ download শুধু Releases থেকে\n\nLink pin করা কমেন্টে।\nGitHub কীভাবে কাজ করে, app কীভাবে install করবেন, পুরো video চাইলে কমেন্টে লিখুন \"FULL\"।\n\n#GitHub #FreeApps #AndroidTips",
       "published": "2026-10-30T08:00:37+00:00",
-      "views": 75,
+      "views": 78,
       "short": true,
       "topic": "basics"
     },
@@ -91,7 +91,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার জায়গা নেবে? AI-এর পুরো গল্প, সহজ বাংলায়",
       "description": "AI এখন আমাদের প্রতিদিনের সিদ্ধান্ত নিচ্ছে, কিন্তু AI আসলে কী? এই ভিডিওতে সহজ বাংলায় দেখব AI কীভাবে এলো, ভেতরে কীভাবে কাজ করে, আমাদের জীবন আর চাকরিতে এর প্রভাব কী, আর AI-এর যুগে এগিয়ে থাকতে আপনার কোন ৫টা অভ্যাস দরকার।\n\nAI নিয়ে আপনার সবচেয়ে বড় প্রশ্ন কী? Comment-এ জানান।\n\nChapters \n0:00 শুরু \n1:18 AI আসলে কী? \n3:09 কীভাবে এলো AI \n6:45 AI ভেতরে কীভাবে কাজ করে \n10:02 আমাদের জীবনে প্রভাব \n13:01 এখন আপনার কী করা উচিত\n\nSources\n\n১০ কোটি ব্যবহারকারী পৌঁছানোর সময় (ChatGPT ~২ মাস, TikTok ~৯ মাস, Instagram ~২.৫ বছর): \nUBS, reported by Reuters, Feb 2023\nTuring, \"Computing Machinery and Intelligence\", Mind, 1950\nAlexNet, ImageNet (ILSVRC) 2012: \ntop-5 error ~15.3% vs ~26.2% for the runner-up\nVaswani et al., \"Attention Is All You Need\", 2017\nGPT-3: 175 billion parameters (Brown et al., 2020)\nNobel Prize in Chemistry 2024 (AlphaFold: Demis Hassabis, John Jumper)\nAmazon's experimental recruiting tool: Reuters, Oct 2018",
       "published": "2026-10-23T19:24:29+00:00",
-      "views": 183,
+      "views": 185,
       "short": false,
       "topic": "work"
     }
