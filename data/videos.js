@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-03T22:46:56.031Z",
+  "updated": "2026-11-04T13:38:30.445Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "একটা মেসেজ আপনার ফোন ছেড়ে বেরিয়ে যাওয়ার পর, কীভাবে ঠিক একজন নির্দিষ্ট মানুষের ফোনে পৌঁছায়?",
       "description": "আম্মুর ফোন বন্ধ। আপনি লিখলেন \"আমি পৌঁছে গেছি\"। মেসেজটা তাহলে এখন কোথায়?\n\nSend চাপার আগেই WhatsApp মেসেজটা encrypt করে ফেলে। তারপর সেটা মোবাইল টাওয়ার, ISP আর সাগরের নিচের কেবল পেরিয়ে WhatsApp-এর সার্ভারে যায়। প্রাপকের ফোন বন্ধ থাকলে encrypted কপিটা সেখানে অপেক্ষা করে, ফোন অন হলেই পৌঁছে যায়।\n\nটিকগুলোর মানে:\n✓ এক ধূসর টিক: মেসেজ পাঠানো হয়েছে, সার্ভারে আছে\n✓✓ দুই ধূসর টিক: প্রাপকের ফোনে পৌঁছেছে\n✓✓ দুই নীল টিক: পড়া হয়েছে (read receipts চালু থাকলে)\n\nপৌঁছে গেলে সার্ভারের কপি মুছে যায়। ৩০ দিনেও পৌঁছানো না গেলে সেটাও মুছে ফেলা হয় (WhatsApp-এর নীতিমালা অনুযায়ী)।\n\nChat backup নিয়ে একটা জরুরি কথা pinned comment-এ 👇\n\n#WhatsApp #EndToEndEncryption #প্রযুক্তি",
       "published": "2026-11-03T13:32:26+00:00",
-      "views": 302,
+      "views": 329,
       "short": true,
       "topic": "basics"
     },
@@ -46,7 +46,7 @@ window.IGNOTO = {
       "title": "Enter চাপার পর ChatGPT-এর ভেতরে যা হয় 🤯 #shorts",
       "description": "Enter চাপার পরের এক সেকেন্ড, slow motion-এ। আপনার লেখা কীভাবে token হয়, সংখ্যা হয়, attention দিয়ে মানে বোঝে, আর এক শব্দ এক শব্দ করে উত্তর বানায়।\n\nএটা বুঝলে ৩টা অভ্যাস নিজে থেকেই আসে: ১. যেমন উত্তর চান, তার একটা উদাহরণ দিন ২. লিখুন \"আগে ধাপে ধাপে ভাবো, তারপর উত্তর দাও\" ৩. উত্তর ভুল হলে তর্ক না করে নিজের প্রশ্নটাই edit করুন (✏️)\n\nতিনটা ready প্রম্পট pinned comment-এ।\n\n#ChatGPT #AI #প্রম্পট #বাংলা #AIবাংলা #shorts",
       "published": "2026-10-29T12:30:04+00:00",
-      "views": 440,
+      "views": 441,
       "short": true,
       "topic": "basics"
     },
@@ -64,7 +64,7 @@ window.IGNOTO = {
       "title": "ChatGPT-র ৫টা feature, যেটা বেশিরভাগ মানুষ কখনো খুলেও দেখেনি 🔓",
       "description": "ChatGPT-তে প্রশ্ন করা তো সবাই জানে। কিন্তু এই ৫টা feature দিয়ে সময় বাঁচে সবচেয়ে বেশি:\n\n১. Custom Instructions: একবার লিখে দিন আপনি কে, প্রতিটা উত্তর আসবে আপনার মতো করে\n২. Projects: নিজের বই, নোট বা syllabus থেকে উত্তর\n৩. ছবি → Excel: হাতে লেখা হিসাবের খাতা থেকে Excel file, মোট হিসাবসহ\n৪. Deep Research: ঘণ্টার research কয়েক মিনিটে, source সহ\n৫. Tasks: ChatGPT নিজেই প্রতিদিন আপনাকে message দেবে\n\n📌 ৫টা prompt-ই pin করা কমেন্টে আছে, copy করে use করুন।\n\nVideo-টা save করে রাখুন, আর যার কাজে লাগবে তাকে share করুন।\n\n#ChatGPT #AIBangla #ChatGPTBangla #shorts",
       "published": "2026-10-27T16:41:15+00:00",
-      "views": 256,
+      "views": 257,
       "short": true,
       "topic": "tools"
     },
@@ -82,7 +82,7 @@ window.IGNOTO = {
       "title": "ChatGPT কেন এত আত্মবিশ্বাস নিয়ে ভুল বলে? 🤔",
       "description": "ChatGPT সত্য খোঁজে না, খোঁজে সবচেয়ে সম্ভাব্য পরের শব্দ। তাই কখনো কখনো এমন বই, এমন reference বানিয়ে দেয় যার অস্তিত্বই নেই। পুরো ভিডিও: AI আসলে কী? (চ্যানেলে) #ChatGPT #AIBangla #hallucination #shorts",
       "published": "2026-10-23T19:53:15+00:00",
-      "views": 153,
+      "views": 154,
       "short": true,
       "topic": "basics"
     },
@@ -100,7 +100,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার জায়গা নেবে? AI-এর পুরো গল্প, সহজ বাংলায়",
       "description": "AI এখন আমাদের প্রতিদিনের সিদ্ধান্ত নিচ্ছে, কিন্তু AI আসলে কী? এই ভিডিওতে সহজ বাংলায় দেখব AI কীভাবে এলো, ভেতরে কীভাবে কাজ করে, আমাদের জীবন আর চাকরিতে এর প্রভাব কী, আর AI-এর যুগে এগিয়ে থাকতে আপনার কোন ৫টা অভ্যাস দরকার।\n\nAI নিয়ে আপনার সবচেয়ে বড় প্রশ্ন কী? Comment-এ জানান।\n\nChapters \n0:00 শুরু \n1:18 AI আসলে কী? \n3:09 কীভাবে এলো AI \n6:45 AI ভেতরে কীভাবে কাজ করে \n10:02 আমাদের জীবনে প্রভাব \n13:01 এখন আপনার কী করা উচিত\n\nSources\n\n১০ কোটি ব্যবহারকারী পৌঁছানোর সময় (ChatGPT ~২ মাস, TikTok ~৯ মাস, Instagram ~২.৫ বছর): \nUBS, reported by Reuters, Feb 2023\nTuring, \"Computing Machinery and Intelligence\", Mind, 1950\nAlexNet, ImageNet (ILSVRC) 2012: \ntop-5 error ~15.3% vs ~26.2% for the runner-up\nVaswani et al., \"Attention Is All You Need\", 2017\nGPT-3: 175 billion parameters (Brown et al., 2020)\nNobel Prize in Chemistry 2024 (AlphaFold: Demis Hassabis, John Jumper)\nAmazon's experimental recruiting tool: Reuters, Oct 2018",
       "published": "2026-10-23T19:24:29+00:00",
-      "views": 199,
+      "views": 202,
       "short": false,
       "topic": "work"
     }
