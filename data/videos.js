@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-06T13:36:39.123Z",
+  "updated": "2026-11-06T22:37:39.172Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "একটা মেসেজ আপনার ফোন ছেড়ে বেরিয়ে যাওয়ার পর, কীভাবে ঠিক একজন নির্দিষ্ট মানুষের ফোনে পৌঁছায়?",
       "description": "আম্মুর ফোন বন্ধ। আপনি লিখলেন \"আমি পৌঁছে গেছি\"। মেসেজটা তাহলে এখন কোথায়?\n\nSend চাপার আগেই WhatsApp মেসেজটা encrypt করে ফেলে। তারপর সেটা মোবাইল টাওয়ার, ISP আর সাগরের নিচের কেবল পেরিয়ে WhatsApp-এর সার্ভারে যায়। প্রাপকের ফোন বন্ধ থাকলে encrypted কপিটা সেখানে অপেক্ষা করে, ফোন অন হলেই পৌঁছে যায়।\n\nটিকগুলোর মানে:\n✓ এক ধূসর টিক: মেসেজ পাঠানো হয়েছে, সার্ভারে আছে\n✓✓ দুই ধূসর টিক: প্রাপকের ফোনে পৌঁছেছে\n✓✓ দুই নীল টিক: পড়া হয়েছে (read receipts চালু থাকলে)\n\nপৌঁছে গেলে সার্ভারের কপি মুছে যায়। ৩০ দিনেও পৌঁছানো না গেলে সেটাও মুছে ফেলা হয় (WhatsApp-এর নীতিমালা অনুযায়ী)।\n\nChat backup নিয়ে একটা জরুরি কথা pinned comment-এ 👇\n\n#WhatsApp #EndToEndEncryption #প্রযুক্তি",
       "published": "2026-11-03T13:32:26+00:00",
-      "views": 335,
+      "views": 338,
       "short": true,
       "topic": "basics"
     },
@@ -55,7 +55,7 @@ window.IGNOTO = {
       "title": "মোবাইলের একটা ছবি থেকে পুরো product ad, ০ টাকায় 🤯 | ChatGPT-এর বাইরে AI #1",
       "description": "Photographer নেই, model নেই, studio নেই। শুধু মোবাইলের একটা ছবি আর Hugging Face-এর free AI।\n\n৩ ধাপে পুরো ad:\n০১ বিছানার চাদরের ছবি → studio photo\n০২ Model-এর হাতে আপনার product\n০৩ সেই ছবিটাই এখন video\n\nসময় লেগেছে ৫ মিনিট, খরচ ০ টাকা।\nতিনটা link আর prompt পিন করা কমেন্টে 👇\n\nFree account-এ প্রতিদিন ৫ মিনিট GPU সময় পাবেন। একটা ad-এর জন্য যথেষ্ট।\n(ছবি ও video AI দিয়ে বানানো। Customer-কে বলে দিন এটা AI preview।)\n\n#AIBangla #HuggingFace #FreeAI #FCommerce #ProductPhotography #ChatGPTBangla #shorts",
       "published": "2026-10-28T16:21:54+00:00",
-      "views": 132,
+      "views": 133,
       "short": true,
       "topic": "tools"
     },
