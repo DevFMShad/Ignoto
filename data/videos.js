@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-09T14:54:56.416Z",
+  "updated": "2026-11-10T14:08:14.855Z",
   "topics": [
     {
       "id": "safety",
@@ -46,7 +46,7 @@ window.IGNOTO = {
       "title": "Enter চাপার পর ChatGPT-এর ভেতরে যা হয় 🤯 #shorts",
       "description": "Enter চাপার পরের এক সেকেন্ড, slow motion-এ। আপনার লেখা কীভাবে token হয়, সংখ্যা হয়, attention দিয়ে মানে বোঝে, আর এক শব্দ এক শব্দ করে উত্তর বানায়।\n\nএটা বুঝলে ৩টা অভ্যাস নিজে থেকেই আসে: ১. যেমন উত্তর চান, তার একটা উদাহরণ দিন ২. লিখুন \"আগে ধাপে ধাপে ভাবো, তারপর উত্তর দাও\" ৩. উত্তর ভুল হলে তর্ক না করে নিজের প্রশ্নটাই edit করুন (✏️)\n\nতিনটা ready প্রম্পট pinned comment-এ।\n\n#ChatGPT #AI #প্রম্পট #বাংলা #AIবাংলা #shorts",
       "published": "2026-10-29T12:30:04+00:00",
-      "views": 442,
+      "views": 444,
       "short": true,
       "topic": "basics"
     },
@@ -55,7 +55,7 @@ window.IGNOTO = {
       "title": "মোবাইলের একটা ছবি থেকে পুরো product ad, ০ টাকায় 🤯 | ChatGPT-এর বাইরে AI #1",
       "description": "Photographer নেই, model নেই, studio নেই। শুধু মোবাইলের একটা ছবি আর Hugging Face-এর free AI।\n\n৩ ধাপে পুরো ad:\n০১ বিছানার চাদরের ছবি → studio photo\n০২ Model-এর হাতে আপনার product\n০৩ সেই ছবিটাই এখন video\n\nসময় লেগেছে ৫ মিনিট, খরচ ০ টাকা।\nতিনটা link আর prompt পিন করা কমেন্টে 👇\n\nFree account-এ প্রতিদিন ৫ মিনিট GPU সময় পাবেন। একটা ad-এর জন্য যথেষ্ট।\n(ছবি ও video AI দিয়ে বানানো। Customer-কে বলে দিন এটা AI preview।)\n\n#AIBangla #HuggingFace #FreeAI #FCommerce #ProductPhotography #ChatGPTBangla #shorts",
       "published": "2026-10-28T16:21:54+00:00",
-      "views": 136,
+      "views": 137,
       "short": true,
       "topic": "tools"
     },
