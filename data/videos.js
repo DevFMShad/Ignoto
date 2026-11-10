@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-10T14:08:14.855Z",
+  "updated": "2026-11-10T22:44:15.995Z",
   "topics": [
     {
       "id": "safety",
@@ -55,7 +55,7 @@ window.IGNOTO = {
       "title": "মোবাইলের একটা ছবি থেকে পুরো product ad, ০ টাকায় 🤯 | ChatGPT-এর বাইরে AI #1",
       "description": "Photographer নেই, model নেই, studio নেই। শুধু মোবাইলের একটা ছবি আর Hugging Face-এর free AI।\n\n৩ ধাপে পুরো ad:\n০১ বিছানার চাদরের ছবি → studio photo\n০২ Model-এর হাতে আপনার product\n০৩ সেই ছবিটাই এখন video\n\nসময় লেগেছে ৫ মিনিট, খরচ ০ টাকা।\nতিনটা link আর prompt পিন করা কমেন্টে 👇\n\nFree account-এ প্রতিদিন ৫ মিনিট GPU সময় পাবেন। একটা ad-এর জন্য যথেষ্ট।\n(ছবি ও video AI দিয়ে বানানো। Customer-কে বলে দিন এটা AI preview।)\n\n#AIBangla #HuggingFace #FreeAI #FCommerce #ProductPhotography #ChatGPTBangla #shorts",
       "published": "2026-10-28T16:21:54+00:00",
-      "views": 137,
+      "views": 143,
       "short": true,
       "topic": "tools"
     },
