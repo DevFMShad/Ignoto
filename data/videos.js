@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-12T14:29:02.148Z",
+  "updated": "2026-11-12T23:05:04.914Z",
   "topics": [
     {
       "id": "safety",
