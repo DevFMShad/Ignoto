@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-18T14:56:40.361Z",
+  "updated": "2026-11-18T23:47:59.556Z",
   "topics": [
     {
       "id": "safety",
@@ -55,7 +55,7 @@ window.IGNOTO = {
       "title": "মোবাইলের একটা ছবি থেকে পুরো product ad, ০ টাকায় 🤯 | ChatGPT-এর বাইরে AI #1",
       "description": "Photographer নেই, model নেই, studio নেই। শুধু মোবাইলের একটা ছবি আর Hugging Face-এর free AI।\n\n৩ ধাপে পুরো ad:\n০১ বিছানার চাদরের ছবি → studio photo\n০২ Model-এর হাতে আপনার product\n০৩ সেই ছবিটাই এখন video\n\nসময় লেগেছে ৫ মিনিট, খরচ ০ টাকা।\nতিনটা link আর prompt পিন করা কমেন্টে 👇\n\nFree account-এ প্রতিদিন ৫ মিনিট GPU সময় পাবেন। একটা ad-এর জন্য যথেষ্ট।\n(ছবি ও video AI দিয়ে বানানো। Customer-কে বলে দিন এটা AI preview।)\n\n#AIBangla #HuggingFace #FreeAI #FCommerce #ProductPhotography #ChatGPTBangla #shorts",
       "published": "2026-10-28T16:21:54+00:00",
-      "views": 145,
+      "views": 147,
       "short": true,
       "topic": "tools"
     },
@@ -100,7 +100,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার জায়গা নেবে? AI-এর পুরো গল্প, সহজ বাংলায়",
       "description": "AI এখন আমাদের প্রতিদিনের সিদ্ধান্ত নিচ্ছে, কিন্তু AI আসলে কী? এই ভিডিওতে সহজ বাংলায় দেখব AI কীভাবে এলো, ভেতরে কীভাবে কাজ করে, আমাদের জীবন আর চাকরিতে এর প্রভাব কী, আর AI-এর যুগে এগিয়ে থাকতে আপনার কোন ৫টা অভ্যাস দরকার।\n\nAI নিয়ে আপনার সবচেয়ে বড় প্রশ্ন কী? Comment-এ জানান।\n\nChapters \n0:00 শুরু \n1:18 AI আসলে কী? \n3:09 কীভাবে এলো AI \n6:45 AI ভেতরে কীভাবে কাজ করে \n10:02 আমাদের জীবনে প্রভাব \n13:01 এখন আপনার কী করা উচিত\n\nSources\n\n১০ কোটি ব্যবহারকারী পৌঁছানোর সময় (ChatGPT ~২ মাস, TikTok ~৯ মাস, Instagram ~২.৫ বছর): \nUBS, reported by Reuters, Feb 2023\nTuring, \"Computing Machinery and Intelligence\", Mind, 1950\nAlexNet, ImageNet (ILSVRC) 2012: \ntop-5 error ~15.3% vs ~26.2% for the runner-up\nVaswani et al., \"Attention Is All You Need\", 2017\nGPT-3: 175 billion parameters (Brown et al., 2020)\nNobel Prize in Chemistry 2024 (AlphaFold: Demis Hassabis, John Jumper)\nAmazon's experimental recruiting tool: Reuters, Oct 2018",
       "published": "2026-10-23T19:24:29+00:00",
-      "views": 216,
+      "views": 218,
       "short": false,
       "topic": "work"
     }
