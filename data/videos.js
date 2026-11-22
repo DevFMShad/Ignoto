@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-22T13:54:42.780Z",
+  "updated": "2026-11-22T23:05:41.360Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "সফটওয়্যার বানানো এখন সহজ। তাহলে আসল টাকা কোথায়? 🤖",
       "description": "একসময় একটা ওয়েবসাইট বানাতে পারাই ছিল বিশাল স্কিল। আজ AI দিয়ে কয়েক মিনিটে ওয়েবসাইট, অ্যাপ, সফটওয়্যার সব বানানো যায়।\n\nতাহলে ভবিষ্যতের আসল মূল্য কোথায়? উত্তর: AI Automation।\n\nধরুন একজন অনলাইন ব্যবসায়ী প্রতিদিন ২০০টা অর্ডার পান। অর্ডার যাচাই, কাস্টমারকে রিপ্লাই, ইনভেন্টরি আপডেট, ডেলিভারি: সব হাতে করতে হয়। একটা AI-powered workflow এই কাজগুলো নিজে থেকেই করে ফেলতে পারে।\n\nমানুষ আরেকটা সফটওয়্যার চায় না। তারা চায় তাদের কাজটা হয়ে যাক। যে এই কাজটা করে দিতে পারে, তার জন্যই নতুন সুযোগ।\n\nn8n, AI Agent আর বাস্তব workflow নিয়ে একটা ফ্রি সিরিজ শুরু করতে চাই। চাইলে কমেন্টে লিখুন AUTOMATION 👇\n\n#AIAutomation #n8n #প্রযুক্তি",
       "published": "2026-11-21T05:00:39+00:00",
-      "views": 233,
+      "views": 236,
       "short": true,
       "topic": "basics"
     },
@@ -109,7 +109,7 @@ window.IGNOTO = {
       "title": "AI কি আপনার জায়গা নেবে? AI-এর পুরো গল্প, সহজ বাংলায়",
       "description": "AI এখন আমাদের প্রতিদিনের সিদ্ধান্ত নিচ্ছে, কিন্তু AI আসলে কী? এই ভিডিওতে সহজ বাংলায় দেখব AI কীভাবে এলো, ভেতরে কীভাবে কাজ করে, আমাদের জীবন আর চাকরিতে এর প্রভাব কী, আর AI-এর যুগে এগিয়ে থাকতে আপনার কোন ৫টা অভ্যাস দরকার।\n\nAI নিয়ে আপনার সবচেয়ে বড় প্রশ্ন কী? Comment-এ জানান।\n\nChapters \n0:00 শুরু \n1:18 AI আসলে কী? \n3:09 কীভাবে এলো AI \n6:45 AI ভেতরে কীভাবে কাজ করে \n10:02 আমাদের জীবনে প্রভাব \n13:01 এখন আপনার কী করা উচিত\n\nSources\n\n১০ কোটি ব্যবহারকারী পৌঁছানোর সময় (ChatGPT ~২ মাস, TikTok ~৯ মাস, Instagram ~২.৫ বছর): \nUBS, reported by Reuters, Feb 2023\nTuring, \"Computing Machinery and Intelligence\", Mind, 1950\nAlexNet, ImageNet (ILSVRC) 2012: \ntop-5 error ~15.3% vs ~26.2% for the runner-up\nVaswani et al., \"Attention Is All You Need\", 2017\nGPT-3: 175 billion parameters (Brown et al., 2020)\nNobel Prize in Chemistry 2024 (AlphaFold: Demis Hassabis, John Jumper)\nAmazon's experimental recruiting tool: Reuters, Oct 2018",
       "published": "2026-10-23T19:24:29+00:00",
-      "views": 225,
+      "views": 226,
       "short": false,
       "topic": "work"
     }
