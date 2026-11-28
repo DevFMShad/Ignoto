@@ -1,5 +1,5 @@
 window.IGNOTO = {
-  "updated": "2026-11-27T15:57:48.316Z",
+  "updated": "2026-11-28T00:57:14.381Z",
   "topics": [
     {
       "id": "safety",
@@ -28,7 +28,7 @@ window.IGNOTO = {
       "title": "সব মাস ২৮ দিনের হলে কী হতো?",
       "description": "প্রতিটা মাস ঠিক ২৮ দিনের, প্রতি মাস শুরু রবিবারে, শেষ শনিবারে। এমন ক্যালেন্ডার সত্যিই বানানো হয়েছিল।\nআর কোডাক কোম্পানি ১৯৮৯ সাল পর্যন্ত এই ১৩ মাসের ক্যালেন্ডারেই চলেছে।\n\n১৯০২ সালে মোজেস কটসওয়ার্থ বছরটাকে ১৩টা সমান মাসে ভাগ করলেন, জুন আর জুলাইয়ের মাঝে বসালেন নতুন মাস \"সল\"। লিগ অব নেশনস ১৩০টা প্রস্তাবের মধ্যে এটাকেই সেরা বেছেছিল। কিন্তু ১৩ × ২৮ = ৩৬৪, আর বাকি একটা দিন কোনো সপ্তাহে পড়ে না। সেই একটা দিনের জন্যই পৃথিবী এটা নেয়নি।\n\nআপনি হলে কোনটা নিতেন, ১২ মাস না ১৩ মাস? কমেন্টে শুধু সংখ্যাটা লিখুন।\n\nতথ্যসূত্র (ভুল পেলে কমেন্টে জানান):\n• International Fixed Calendar: https://en.wikipedia.org/wiki/International_Fixed_Calendar\n• IISG, A Matter of Time: https://www.iisg.nl/collections/matter-of-time/fixed-calendar.php\n• ১৯৩১ সালে লিগ অব নেশনসে ধর্মীয় আপত্তি (JTA আর্কাইভ): https://www.jta.org/archive/jewish-case-against-shifting-sabbath-presented-to-league-of-nations-calendar-reform-conference-by-ch\n\n#ক্যালেন্ডার #ইতিহাস #বিজ্ঞান",
       "published": "2026-11-26T12:00:20+00:00",
-      "views": 50,
+      "views": 57,
       "short": true,
       "topic": "basics"
     },
@@ -37,7 +37,7 @@ window.IGNOTO = {
       "title": "দিনে কেন ২৪ ঘণ্টা? ২০ বা ৩০ না কেন?",
       "description": "দিনে ২৪ ঘণ্টা, ঘণ্টায় ৬০ মিনিট, মিনিটে ৬০ সেকেন্ড। এগুলো প্রকৃতি ঠিক করেনি, মানুষ করেছে।\n২০০৯ সালে এক রাতে বাংলাদেশের সব ঘড়ি এক ঘণ্টা এগিয়ে গিয়েছিল, সূর্য কিন্তু নড়েনি।\n\nনীল নদের পাড়ে তারা গুনে রাতকে বারো ভাগ করা, ব্যাবিলনের ষাট, \"সেকেন্ড\" শব্দের আসল মানে, রেলগাড়ির জন্য টাইম জোন, আর ১৯৬৭ সালে সূর্যের বদলে একটা পরমাণু দিয়ে সেকেন্ড মাপা। চার হাজার বছরের এই গল্প এখনো শেষ হয়নি।\n\nআপনার হাতে থাকলে দিন কত ঘণ্টার হতো? কমেন্টে শুধু সংখ্যাটা লিখুন।\n\nতথ্যসূত্র (ভুল পেলে কমেন্টে জানান):\n• বাংলাদেশে ২০০৯ সালের ঘড়ি পরিবর্তন: https://en.wikipedia.org/wiki/Bangladesh_Standard_Time\n• মিশরের রাতের ১২ ভাগ (ডেকান তারা): https://en.wikipedia.org/wiki/Decan\n• \"minute\" আর \"second\" শব্দের উৎস: https://en.wikipedia.org/wiki/Minute\n• লিপ সেকেন্ড বন্ধের সিদ্ধান্ত (২০২২): https://www.scientificamerican.com/article/the-leap-seconds-time-is-up-world-votes-to-stop-pausing-clocks/\n\n#সময় #ইতিহাস #বিজ্ঞান",
       "published": "2026-11-26T05:00:07+00:00",
-      "views": 147,
+      "views": 148,
       "short": true,
       "topic": "basics"
     },
